@@ -524,3 +524,8 @@ Apps
 ```
 
 **Happy Building! 🚀**
+
+Commands:
+npx prisma contract emit (migrate)
+npx prisma migration plan --name init
+npx prisma db migrate
